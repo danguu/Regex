@@ -5,4 +5,4 @@ Nicolas Perez
 
 Julio Florez
 
-Video: Se encuentra en la carpeta funcionamiento regex
+Video: Se encuentra en la carpeta aplicación regex
